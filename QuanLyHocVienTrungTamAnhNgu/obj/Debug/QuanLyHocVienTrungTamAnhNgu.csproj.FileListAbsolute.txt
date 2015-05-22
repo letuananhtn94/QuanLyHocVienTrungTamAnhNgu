@@ -1,0 +1,9 @@
+E:\THU MUC\TAI LIEU\TAILIEU_HOCTAP\NAM_BA_HKII\Phan Tich Thiet Ke He Thong\DO AN\QuanLyHocVienTrungTamAnhNgu\QuanLyHocVienTrungTamAnhNgu\bin\Debug\QuanLyHocVienTrungTamAnhNgu.exe.config
+E:\THU MUC\TAI LIEU\TAILIEU_HOCTAP\NAM_BA_HKII\Phan Tich Thiet Ke He Thong\DO AN\QuanLyHocVienTrungTamAnhNgu\QuanLyHocVienTrungTamAnhNgu\bin\Debug\QuanLyHocVienTrungTamAnhNgu.exe
+E:\THU MUC\TAI LIEU\TAILIEU_HOCTAP\NAM_BA_HKII\Phan Tich Thiet Ke He Thong\DO AN\QuanLyHocVienTrungTamAnhNgu\QuanLyHocVienTrungTamAnhNgu\bin\Debug\QuanLyHocVienTrungTamAnhNgu.pdb
+E:\THU MUC\TAI LIEU\TAILIEU_HOCTAP\NAM_BA_HKII\Phan Tich Thiet Ke He Thong\DO AN\QuanLyHocVienTrungTamAnhNgu\QuanLyHocVienTrungTamAnhNgu\obj\Debug\QuanLyHocVienTrungTamAnhNgu.csprojResolveAssemblyReference.cache
+E:\THU MUC\TAI LIEU\TAILIEU_HOCTAP\NAM_BA_HKII\Phan Tich Thiet Ke He Thong\DO AN\QuanLyHocVienTrungTamAnhNgu\QuanLyHocVienTrungTamAnhNgu\obj\Debug\QuanLyHocVienTrungTamAnhNgu.Form1.resources
+E:\THU MUC\TAI LIEU\TAILIEU_HOCTAP\NAM_BA_HKII\Phan Tich Thiet Ke He Thong\DO AN\QuanLyHocVienTrungTamAnhNgu\QuanLyHocVienTrungTamAnhNgu\obj\Debug\QuanLyHocVienTrungTamAnhNgu.Properties.Resources.resources
+E:\THU MUC\TAI LIEU\TAILIEU_HOCTAP\NAM_BA_HKII\Phan Tich Thiet Ke He Thong\DO AN\QuanLyHocVienTrungTamAnhNgu\QuanLyHocVienTrungTamAnhNgu\obj\Debug\QuanLyHocVienTrungTamAnhNgu.csproj.GenerateResource.Cache
+E:\THU MUC\TAI LIEU\TAILIEU_HOCTAP\NAM_BA_HKII\Phan Tich Thiet Ke He Thong\DO AN\QuanLyHocVienTrungTamAnhNgu\QuanLyHocVienTrungTamAnhNgu\obj\Debug\QuanLyHocVienTrungTamAnhNgu.exe
+E:\THU MUC\TAI LIEU\TAILIEU_HOCTAP\NAM_BA_HKII\Phan Tich Thiet Ke He Thong\DO AN\QuanLyHocVienTrungTamAnhNgu\QuanLyHocVienTrungTamAnhNgu\obj\Debug\QuanLyHocVienTrungTamAnhNgu.pdb
